@@ -1,0 +1,61 @@
+
+Title: AI Agent Development Portfolio - Nitish Kumar
+Organization: International Institute of SDGs and Public Policy Research (IISPPR)
+Internship: AI Agent Development Internship
+Intern Name: Nitish Kumar
+Date: 2025-06-24
+
+------------------------------
+Section 1: About the Internship
+------------------------------
+This document represents the knowledge base and AI agent development contributions by Nitish Kumar during his internship at IISPPR. The project involved building AI-powered agents capable of processing information, answering queries, and solving real-world problems using advanced technologies.
+
+------------------------------
+Section 2: Technologies Used
+------------------------------
+- Python: Core language for building tools and agents.
+- Streamlit: Used for building interactive web-based AI dashboards.
+- GPT (via OpenAI and Groq): Large Language Models used for natural language understanding and generation.
+- LlamaIndex: Used to index and query documents.
+- LangChain: To manage LLM chains and retrieval-augmented generation.
+- Machine Learning: Concepts such as classification, regression used in backend logic.
+- Deep Learning: Used for advanced models such as image recognition or video understanding.
+
+------------------------------
+Section 3: AI Use Cases Built
+------------------------------
+- Chatbot using GPT for general Q&A and document-based retrieval.
+- AI assistant to extract answers from PDFs and notes.
+- Country Information Agent: Provides capital, PM, and President of any country.
+- Streamlit UI for document-based intelligent QA system.
+- Custom trained vector search-based agents using local documents.
+
+------------------------------
+Section 4: General Knowledge Examples
+------------------------------
+Q: What is the capital of India?
+A: New Delhi
+
+Q: Who is the Prime Minister of India?
+A: Narendra Modi
+
+Q: Who is the President of the United States?
+A: Joe Biden
+
+Q: What is the capital of France?
+A: Paris
+
+Q: Who is the Prime Minister of the United Kingdom?
+A: Rishi Sunak
+
+Q: What is the capital of Japan?
+A: Tokyo
+
+Q: Who is the President of Russia?
+A: Vladimir Putin
+
+------------------------------
+Section 5: Note from Developer
+------------------------------
+This AI system and portfolio is designed and developed by Nitish Kumar as part of the AI Agent Development Internship at IISPPR. All modules have been created for educational and research purposes.
+

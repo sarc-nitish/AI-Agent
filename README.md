@@ -40,7 +40,7 @@ from llama_index.core.tools import FunctionTool
 ### 3. Set Groq API Key
 The Groq API key is securely set using:
 ```python
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "_____________"
 ```
 - **Purpose**: Authenticates access to Groq's language model.
 
